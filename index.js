@@ -35,7 +35,7 @@ async function getSpaceNews() {
             link: link,
             author: author,
             date: date,
-            excerpt: excerpt,
+            description: excerpt,
             tags: tags
         }
         articles[i] = article;
